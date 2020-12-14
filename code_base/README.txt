@@ -1,0 +1,1 @@
+I was already working several different part such as orm and small parts like accounts, person, employee/employees. I thought I could get buy with minimal work but that was not the case. I was able to get help via python communities on reddit and discord on how to tie everything in together and on a few pieces of code as well. I really hope this suffices.
